@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <title>ChatQuack</title>
+ <desc>A modern logo for ChatQuack featuring a duck-themed chat design</desc>
+ <g class="layer" display="inline">
+  <title>Layer 1</title>
+  <!-- Duck-Themed Chat Icon -->
+  <g id="duck-icon" transform="translate(-1.06041 513.638) scale(1 1.01478) translate(1.06041 -513.638) translate(4.26667 5.33333) matrix(4.27513 0 0 4.19254 -842.253 -817.538)">
+   <!-- Duck Head -->
+   <circle cx="256" cy="256" fill="#FFD700" id="svg_1" r="60"/>
+   <!-- Duck Beak -->
+   <path d="m256,290c44,0 44,-30 0,-30l0,30z" fill="#FF8C00" id="svg_2"/>
+   <!-- Duck Eye -->
+   <circle cx="230" cy="240" fill="#000000" id="svg_3" r="10"/>
+  </g>
+  <!-- Text for ChatQuack -->
+ </g>
+</svg>
